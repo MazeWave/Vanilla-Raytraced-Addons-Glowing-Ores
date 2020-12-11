@@ -1,0 +1,20 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Luminous Ores Addon for Vanilla Raytraced",
+        "description": "Luminous Ores Addon for Vanilla §aRaytraced§r",
+        "version": [1, 1, 0],
+        "uuid": "70918ee0-3bcf-11eb-a43f-1b1c9c9cdc6b",
+		"min_engine_version": [1, 15, 0]
+    },
+    "modules": [
+        {
+            "version": [1, 0, 0],
+            "type": "resources",
+            "uuid": "7601d984-3bcf-11eb-8a67-1fe83cb3e928"
+        }
+    ],
+    "capabilities" : [
+            "raytraced"
+    ]
+}
