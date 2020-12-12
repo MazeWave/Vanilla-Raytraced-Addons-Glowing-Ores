@@ -6,7 +6,7 @@ if(!$(Test-Path -Path "./.temp/vanilla")) { # Download the default pack of Minec
 	Remove-Item -Path ./.temp/vanilla.zip -Force
 }
 
-Invoke-WebRequest -Uri https://gist.github.com/06Games/c47e18c3729f3bc26a0518a02ebd03f4/raw/08cb7613adb6ee1a3b47b73962a64c8e2cd4e4ca/generate.ps1 -OutFile ./.temp/generate.ps1 # Download the generation script
+Invoke-WebRequest -Uri https://gist.github.com/06Games/c47e18c3729f3bc26a0518a02ebd03f4/raw/ -OutFile ./.temp/generate.ps1 # Download the generation script
 pwsh ./.temp/generate.ps1 -pack "Vanilla Raytraced - Luminous Ores Addon" # Starts the generation of the pack
 Remove-Item -Path ./.temp/generate.ps1 -Force # Delete the generation script
 
