@@ -34,6 +34,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ fromJson(steps.get_latest_release.outputs.data).upload_url }}
-          asset_path: Vanilla Raytraced.mcpack
+          asset_path: '.temp/export/Luminous Ores Addon for Vanilla Raytraced.mcpack'
           asset_name:  Luminous-Ores-Addon-for-Vanilla-Raytraced.${{ fromJson(steps.get_latest_release.outputs.data).tag_name }}.mcpack
           asset_content_type: application/zip
