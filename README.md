@@ -6,3 +6,5 @@
 </p>
 
 **Luminous Ores Addon for [Vanilla Raytraced](https://github.com/MazeWave/Vanilla-Raytraced)** 
+* This addon provide a hole new atmosphere to caves !
+* You would see at the bend in the cave, a blue glow, that of the diamond ore that you have been searching for hours!
