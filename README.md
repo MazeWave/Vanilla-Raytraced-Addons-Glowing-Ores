@@ -5,6 +5,5 @@
   <a href="https://github.com/MazeWave/Vanilla-Raytraced-Addons-Luminous-Ores/releases"><img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/MazeWave/Vanilla-Raytraced-Addons-Luminous-Ores/total"></a>
 </p>
 
-**Luminous Ores Addon for [Vanilla Raytraced](https://github.com/MazeWave/Vanilla-Raytraced)** 
-* This addon provide a hole new atmosphere to caves !
-* You would see at the bend in the cave, a blue glow, that of the diamond ore that you have been searching for hours!
+**Luminous Ores Addon for [Vanilla Raytraced](https://github.com/MazeWave/Vanilla-Raytraced)** provides a whole new atmosphere to caves!  
+You would see at a bend in the cave, a blue glow, that of the diamond ore that you have been looking for for hours!

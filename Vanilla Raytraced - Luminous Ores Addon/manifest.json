@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "name": "Luminous Ores Addon for Vanilla Raytraced",
-        "description": "Luminous Ores Addon for Vanilla §aRaytraced§r",
+        "description": "Luminous Ores Addon for Vanilla §aRaytraced§r provides a whole new atmosphere to caves!",
         "version": [1, 1, 0],
         "uuid": "70918ee0-3bcf-11eb-a43f-1b1c9c9cdc6b",
         "min_engine_version": [1, 15, 0]
